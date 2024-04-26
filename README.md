@@ -69,3 +69,4 @@ endmodule
 ![image](https://github.com/swathisiva212/SR-FLIPFLOP-USING-CASE/assets/155249892/1ff5911b-ac94-410e-957a-74ea1eeedcb5)
 
 **RESULTS**
+The obseravation of the stimulation results and confirm the  successfull execution of the program.
